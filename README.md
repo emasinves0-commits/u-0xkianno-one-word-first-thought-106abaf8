@@ -9,13 +9,13 @@ firefly
 ## How it works
 
 ```bash
-MAKEFUN_OUTPUT_DIR=out node main.ts
+MAKEFUN_OUTPUT_DIR=/tmp/oneword-out node main.ts
 ```
 
 This creates the output directory if needed and writes the word `firefly` to `entry.txt` inside it.
 
 ## Badges
 
-[![Badge](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/badge.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
-[![Rank](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
-[![Reward](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
+[![Badge](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
+[![Rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/emasinves0-commits/u-0xkianno-one-word-first-thought-106abaf8/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
+[![Reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/emasinves0-commits/u-0xkianno-one-word-first-thought-106abaf8/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
